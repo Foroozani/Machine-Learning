@@ -1,6 +1,6 @@
 # Machine-Learning, algorithms exapmle
 -------------------------------------------------------------
-# 1) Regularization and Overfitting
+# 1) Regularization and Overfitting Linear regression
    (Overfitting):
     A very common problem in machine learning
     When the model is much more complex than it should be (i.e. for using a lot of features)
@@ -9,8 +9,7 @@
     In such situations, the model can not generalize well.
 
 
-  (Regularization):
-- An effective way to avoid (or at least to reduce) overfitting.
+  (Regularization): An effective way to avoid (or at least to reduce) overfitting.
 
    Linerar regretion, coast function
    Given 𝑋,𝑦,𝜃, compute 𝐽(𝜃).

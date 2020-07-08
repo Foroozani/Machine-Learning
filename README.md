@@ -1,5 +1,6 @@
-# Machine-Learning----------------------------------   
-Regularization and Overfitting
+# Machine-Learning, algorithms exapmle
+-------------------------------------------------------------
+# 1) Regularization and Overfitting
    (Overfitting):
 
     A very common problem in machine learning
@@ -13,8 +14,8 @@ Regularization and Overfitting
 
    Linerar regretion, coast function
    Given 𝑋,𝑦,𝜃, compute 𝐽(𝜃).
-   
-   # Support Vector Machines -------------------------------
+------------------------------------------------------------   
+   # 2) Support Vector Machines 
    
    The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis.
 

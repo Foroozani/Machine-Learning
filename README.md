@@ -19,3 +19,10 @@ To read more mathematics behine that, please visit ML course at Stanford univers
   The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
   We can also use "GridSearch" method to improve the accuracy.
+
+-------------------------------------------------------------
+
+# 3) K-Means algorithm 
+
+K Means Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. For this exaple, first we cleare an artificial data 
+then we use scikit-learn library to cluster the data.

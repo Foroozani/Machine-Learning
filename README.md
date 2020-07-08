@@ -1,4 +1,4 @@
-# Machine-Learning, algorithms exapmle
+# Machine-Learning, algorithm exapmles
 -------------------------------------------------------------
 # 1) Regularization and Overfitting Linear regression
    (Overfitting):
@@ -11,8 +11,8 @@
 
   (Regularization): An effective way to avoid (or at least to reduce) overfitting.
 
-   Linerar regretion, coast function
-   Given 𝑋,𝑦,𝜃, compute 𝐽(𝜃).
+To read more mathematics behine that, please visit ML course at Stanford university.
+
 ------------------------------------------------------------   
    # 2) Support Vector Machines 
    

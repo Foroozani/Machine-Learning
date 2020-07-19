@@ -26,3 +26,11 @@ To read more mathematics behine that, please visit ML course at Stanford univers
 
 K Means Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. For this exaple, first we cleare an artificial data 
 then we use scikit-learn library to cluster the data.
+
+# 4) Neural-Nets 
+
+Keras Regession: In this example I use TF Regression and try to predict the house prices by using them. As you can guess, there are various methods to suceed this and each method has pros and cons.
+
+The real data set can be found at Kaggle
+
+https://www.kaggle.com/harlfoxem/housesalesprediction

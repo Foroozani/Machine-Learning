@@ -34,3 +34,6 @@ Keras Regession: In this example I use TF Regression and try to predict the hous
 The real data set can be found at Kaggle
 
 https://www.kaggle.com/harlfoxem/housesalesprediction
+
+
+There are also some code examples from ML course by Andrew NG.

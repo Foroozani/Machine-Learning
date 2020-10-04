@@ -1,6 +1,6 @@
-# Machine-Learning, algorithm exapmles
+Machine-Learning, algorithm exapmles
 -------------------------------------------------------------
-# 1) Regularization and Overfitting Linear regression
+1) Regularization and Overfitting Linear regression
    (Overfitting):
     A very common problem in machine learning
     When the model is much more complex than it should be (i.e. for using a lot of features)
@@ -14,7 +14,7 @@
 To read more mathematics behine that, please visit ML course at Stanford university.
 
 ------------------------------------------------------------   
-   # 2) Support Vector Machines 
+  2) Support Vector Machines 
    
   The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
@@ -22,12 +22,12 @@ To read more mathematics behine that, please visit ML course at Stanford univers
 
 -------------------------------------------------------------
 
-# 3) K-Means algorithm 
+ 3) K-Means algorithm 
 
 K Means Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. For this exaple, first we cleare an artificial data 
 then we use scikit-learn library to cluster the data.
 
-# 4) Neural-Nets 
+ 4) Neural-Nets 
 
 Keras Regession: In this example I use TF Regression and try to predict the house prices by using them. As you can guess, there are various methods to suceed this and each method has pros and cons.
 

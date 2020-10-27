@@ -47,7 +47,7 @@ The process of standardizing and reforming data is called “Data Normalization.
 * We need to tune our hyperparameters to get the best out of them. 
 * Hyperparameters are important:
 
-1. Learning rate
+1. Learning rate `alpha`
 2. momentum beta
 3. monibatch size
 4. No. of hidden inputs
@@ -55,7 +55,7 @@ The process of standardizing and reforming data is called “Data Normalization.
 6. Learning rate decay
 7. Regularization lambda 
 8. Activation function 
-9. Adam _beta1_ & _beta2_
+9. Adam `beta1` & `beta2`
 
 It is hard to decide which hyperparemeter is the most important in a problem. TIt depends a lit on your problem. One of the ways to tune is to sample a grid with `N` hyperparameter settings and then try all settings combinations on your problem. One can use coarse to fine sampling.
 

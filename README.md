@@ -27,8 +27,8 @@ The possible solutions are:
 1. Learning rate decay 
 1. Normalizing inputs
 
-![an example](
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/46888580/99692928-1bca5e00-2a8b-11eb-9ed8-54c553bb46e5.gif))
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/46888580/99692928-1bca5e00-2a8b-11eb-9ed8-54c553bb46e5.gif)
 
 **What Is Data Normalization, and Why Do We Need It?**
 

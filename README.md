@@ -77,6 +77,7 @@ K Means Clustering is an unsupervised learning algorithm that tries to cluster d
 then we use scikit-learn library to cluster the data.
 
 ![K-Means](https://github.com/Foroozani/Machine-Learning1/blob/master/03-kmeans.png)
+[](https://github.com/Foroozani/Machine-Learning1/blob/master/figures/clustering1.png)
 ---
 > Neural-Nets 
 
@@ -91,6 +92,6 @@ The data set can be found at Kaggle:
 
 Large datasets are increasingly common and are often difficult to interpret. Principal component analysis (PCA) is a technique for reducing the dimensionality of such datasets, increasing interpretability but at the same time minimizing information loss. It does so by creating new uncorrelated variables that successively maximize variance.
 
-![]()
+![](https://github.com/Foroozani/Machine-Learning1/blob/master/figures/pca2.png)
 
 

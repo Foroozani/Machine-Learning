@@ -76,6 +76,7 @@ It is hard to decide which hyperparemeter is the most important in a problem. TI
 K Means Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. For this exaple, first we cleare an artificial data 
 then we use scikit-learn library to cluster the data.
 
+![K-Means](https://github.com/Foroozani/Machine-Learning1/blob/master/03-kmeans.png)
 ---
 > Neural-Nets 
 

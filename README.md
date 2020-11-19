@@ -27,6 +27,8 @@ The possible solutions are:
 1. Learning rate decay 
 1. Normalizing inputs
 
+![an example](https://github.com/Foroozani/Machine-Learning1/blob/master/optimozation.mp4)
+
 **What Is Data Normalization, and Why Do We Need It?**
 
 The process of standardizing and reforming data is called “Data Normalization.” It’s a pre-processing step to eliminate data redundancy. Often, data comes in, and you get the same information in different formats. In these cases, you should rescale values to fit into a particular range, achieving better convergence.

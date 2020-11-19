@@ -77,7 +77,7 @@ K Means Clustering is an unsupervised learning algorithm that tries to cluster d
 then we use scikit-learn library to cluster the data.
 
 ![K-Means](https://github.com/Foroozani/Machine-Learning1/blob/master/03-kmeans.png)
-[](https://github.com/Foroozani/Machine-Learning1/blob/master/figures/clustering1.png)
+![example](https://github.com/Foroozani/Machine-Learning1/blob/master/figures/clustering1.png)
 ---
 > Neural-Nets 
 

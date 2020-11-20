@@ -9,4 +9,4 @@ There are many reason why dimensionality reduction can be useful:
  * decrease the storage space, and
  * may help with the so-called "curse of dimensionality."
  
- ![PCA](https://github.com/Foroozani/Machine-Learning/edit/master/figures/PCA.png)
+ ![](https://github.com/Foroozani/Machine-Learning/blob/master/figures/PCA.png)

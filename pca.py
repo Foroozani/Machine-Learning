@@ -1,17 +1,6 @@
 """
                Principal Component Analysis (PCA)
 
-For a complete introduction, please see Dimensionality Reduction
-
-Here we'll explore Principal Component Analysis, which is an extremely useful
-linear dimensionality reduction technique.The goal is to reduce the size 
-(dimensionality) of a dataset while capturing most of its information.
-
-There are many reason why dimensionality reduction can be useful:
-
-    It can reduce the computational cost when running learning algorithms,
-    decrease the storage space, and
-    may help with the so-called "curse of dimensionality"
 """
 
 

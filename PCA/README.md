@@ -8,3 +8,5 @@ There are many reason why dimensionality reduction can be useful:
  * it can reduce the computational cost when running learning algorithms,
  * decrease the storage space, and
  * may help with the so-called "curse of dimensionality."
+ 
+ ![PCA](https://github.com/Foroozani/Machine-Learning/edit/master/figures/PCA.png)

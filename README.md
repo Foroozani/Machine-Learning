@@ -7,6 +7,7 @@ Machine-Learning, algorithm exapmles
 [![](https://img.shields.io/badge/torchvision-v0.1.6-green)](https://pypi.org/project/torchvision/0.1.6/)
 [![](https://zenodo.org/badge/21369/scikit-learn/scikit-learn.svg)](https://zenodo.org/badge/latestdoi/21369/scikit-learn/scikit-learn)
 [![](https://badge.fury.io/py/scikit-learn.svg)](https://badge.fury.io/py/scikit-learn)
+[![](https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=master)](https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=master)
 
 -------------------------------------------------------------
 > Regularization and Overfitting Linear regression

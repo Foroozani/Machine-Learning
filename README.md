@@ -4,6 +4,7 @@ Machine-Learning, algorithm exapmles
 [![keras](https://img.shields.io/badge/Keras%20-%23D00000?logo=keras)](https://keras.io/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)
 [![Build Status](https://travis-ci.org/keras-team/keras-preprocessing.svg?branch=master)](https://travis-ci.org/keras-team/keras-preprocessing)
+[![](https://img.shields.io/badge/torchvision-v0.1.6-green)](https://pypi.org/project/torchvision/0.1.6/)
 
 -------------------------------------------------------------
 > Regularization and Overfitting Linear regression

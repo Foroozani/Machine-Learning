@@ -1,4 +1,9 @@
 Machine-Learning, algorithm exapmles
+
+[![Python 3.6+](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) [![Python 3.7+](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Python 3.8+](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![keras](https://img.shields.io/badge/Keras%20-%23D00000?logo=keras)](https://keras.io/)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/)
+
 -------------------------------------------------------------
 > Regularization and Overfitting Linear regression
 

@@ -1,6 +1,6 @@
 
 """
-Normal Equation Noninvertibility, Andrew NG class, Week 2
+Normal Equation Noninvertibility, Andrew NG course, Week 2, Standford university
 """
 
 import numpy as np

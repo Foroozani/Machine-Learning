@@ -104,4 +104,6 @@ Large datasets are increasingly common and are often difficult to interpret. Pri
 
 ![](https://github.com/Foroozani/Machine-Learning1/blob/master/figures/pca2.png)
 
+Some refrences: https://www.mit.edu/~amidi/l/fa/
+
 
